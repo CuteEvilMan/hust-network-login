@@ -1,5 +1,5 @@
 # HUST-Network-Login
-
+#https://github.com/black-binary/hust-network-login/releases/download/v0.1.3/x86_64-unknown-linux-musl.zip
 极简主义的华中科技大学校园网络认证工具，支持有线和无线网络。下载即用，大小约为 400k，静态链接无依赖。为路由器等嵌入式设备开发，支持所有主流硬件软件平台。No Python, No Dependencies, No Bullshit.
 
 ## 使用
